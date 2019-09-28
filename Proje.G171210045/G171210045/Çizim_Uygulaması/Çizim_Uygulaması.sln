@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cizim_Uygulamasi", "Çizim_Uygulaması\Cizim_Uygulamasi.csproj", "{C6F99CC7-2E02-40DE-85A7-49B406119CC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F99CC7-2E02-40DE-85A7-49B406119CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F99CC7-2E02-40DE-85A7-49B406119CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F99CC7-2E02-40DE-85A7-49B406119CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F99CC7-2E02-40DE-85A7-49B406119CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E38E437F-7FAA-470C-AD1B-2DA49E12AA5F}
+	EndGlobalSection
+EndGlobal

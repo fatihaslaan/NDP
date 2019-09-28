@@ -1,0 +1,6 @@
+C:\Users\Fatıh\source\repos\OtomobilKutuphanesi\OtomobilKutuphanesi\bin\Debug\OtomobilKutuphanesi.dll
+C:\Users\Fatıh\source\repos\OtomobilKutuphanesi\OtomobilKutuphanesi\bin\Debug\OtomobilKutuphanesi.pdb
+C:\Users\Fatıh\source\repos\OtomobilKutuphanesi\OtomobilKutuphanesi\obj\Debug\OtomobilKutuphanesi.csprojResolveAssemblyReference.cache
+C:\Users\Fatıh\source\repos\OtomobilKutuphanesi\OtomobilKutuphanesi\obj\Debug\OtomobilKutuphanesi.csproj.CoreCompileInputs.cache
+C:\Users\Fatıh\source\repos\OtomobilKutuphanesi\OtomobilKutuphanesi\obj\Debug\OtomobilKutuphanesi.dll
+C:\Users\Fatıh\source\repos\OtomobilKutuphanesi\OtomobilKutuphanesi\obj\Debug\OtomobilKutuphanesi.pdb

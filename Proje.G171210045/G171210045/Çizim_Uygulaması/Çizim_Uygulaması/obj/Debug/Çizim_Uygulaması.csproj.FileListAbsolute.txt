@@ -1,0 +1,9 @@
+C:\Users\Fatıh\source\repos\Çizim_Uygulaması\Çizim_Uygulaması\bin\Debug\Çizim_Uygulaması.exe
+C:\Users\Fatıh\source\repos\Çizim_Uygulaması\Çizim_Uygulaması\bin\Debug\Çizim_Uygulaması.pdb
+C:\Users\Fatıh\source\repos\Çizim_Uygulaması\Çizim_Uygulaması\obj\Debug\Çizim_Uygulaması.FrmCizim.resources
+C:\Users\Fatıh\source\repos\Çizim_Uygulaması\Çizim_Uygulaması\obj\Debug\Çizim_Uygulaması.Properties.Resources.resources
+C:\Users\Fatıh\source\repos\Çizim_Uygulaması\Çizim_Uygulaması\obj\Debug\Çizim_Uygulaması.csproj.GenerateResource.Cache
+C:\Users\Fatıh\source\repos\Çizim_Uygulaması\Çizim_Uygulaması\obj\Debug\Çizim_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Fatıh\source\repos\Çizim_Uygulaması\Çizim_Uygulaması\obj\Debug\Çizim_Uygulaması.exe
+C:\Users\Fatıh\source\repos\Çizim_Uygulaması\Çizim_Uygulaması\obj\Debug\Çizim_Uygulaması.pdb
+C:\Users\Fatıh\source\repos\Çizim_Uygulaması\Çizim_Uygulaması\obj\Debug\Çizim_Uygulaması.csprojResolveAssemblyReference.cache
